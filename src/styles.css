@@ -29,6 +29,12 @@
   }
 }
 
+@media(max-width: 420px) {
+  .title {
+    font-size: 20px;
+  }
+}
+
 .containerInput {
   padding: 8px;
   background: rgba(92, 92, 92, 0.658);
