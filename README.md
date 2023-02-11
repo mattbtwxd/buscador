@@ -12,11 +12,15 @@
 <br>
 
 <p align="center">
-  <img alt="desktop" src=".github/preview-desktop.png" width="100%">
+  <img alt="desktop" src="./public/assets/picture-desktop-1.png" width="100%">
 </p>
 
 <p align="center">
-  <img alt="mobile" src=".github/preview-mobile.png" width="60%">
+  <img alt="desktop" src="./public/assets/picture-desktop-2.png" width="100%">
+</p>
+
+<p align="center">
+  <img alt="mobile" src="./public/assets/picture-mobile.png" width="60%">
   </p>
 
 ## 🚀 Tecnologias
