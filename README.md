@@ -40,7 +40,7 @@ O buscador de CEP é um componente que como o próprio nome ja diz, irá buscar 
 ## 🔗 Deploy
 
 Acesse o projeto finalizado no link a seguir !!
-[VERCEL](https://buscador-de-cep-mattbtwxd.vercel.app/)
+[VERCEL](https://buscador-de-cep-mattchagaz.vercel.app/)
 
 ---
 
