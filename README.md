@@ -13,11 +13,11 @@
 <br>
 
 <p align="center">
-  <img alt="desktop" src="./public/assets/picture-desktop-1.png" width="100%">
+  <img alt="desktop" src="./public/assets/picture-desktop1.png" width="100%">
 </p>
 
 <p align="center">
-  <img alt="desktop" src="./public/assets/picture-desktop-2.png" width="100%">
+  <img alt="desktop" src="./public/assets/picture-desktop2.png" width="100%">
 </p>
 
 <p align="center">
